@@ -1,0 +1,5 @@
+c066fe2887f5b4632abdc8f958eec00e6a43ad8b		branch '0-11-stable' of git://github.com/spree/spree_wishlist
+774a0c1068caa5bb38c967f3c0f90fe1ca0a4288		branch 'fix_viewing_wishlist_when_not_current_user' of git://github.com/spree/spree_wishlist
+7cf462eb810a056d8800e8b1c36c01cae42b75a1		branch 'master' of git://github.com/spree/spree_wishlist
+c3ffed26950992cc037976042f7e1edaef970ca1		branch 'rails3-1' of git://github.com/spree/spree_wishlist
+155405212bc682c2feff6d7636ea1fbc269a7ae1	not-for-merge	tag 'v1.3' of git://github.com/spree/spree_wishlist

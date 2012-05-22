@@ -1,0 +1,6 @@
+f3cc3403efbb4a47c75f548eb1b261a9493ab03a		branch '0-70-stable' of git://github.com/spree/spree_static_content
+7e66f962d5508febf1baab5ef6d01cf8faad210a		branch '1-0-stable' of git://github.com/spree/spree_static_content
+e4472447c3ba57f49c2b93e7d67714d76e5b537e		branch 'master' of git://github.com/spree/spree_static_content
+76e0337302bb456d3249a2b45351b0d12a7d77d6		branch 'v0.60.2' of git://github.com/spree/spree_static_content
+8fe5c98c354953e6afac9fa0d6fff2c6e321c379	not-for-merge	tag 'spree_0.9.4' of git://github.com/spree/spree_static_content
+aedc8fae68061a85b2501c1cf1ba25c57bf98c8d	not-for-merge	tag 'v0.60.2' of git://github.com/spree/spree_static_content

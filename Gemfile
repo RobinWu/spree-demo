@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'http://ruby.taobao.org'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -6,7 +6,7 @@ source 'http://rubygems.org'
 gem 'rails', '3.2.3'
 gem 'mysql2'
 gem 'sqlite3'
-gem 'aws-sdk'
+# gem 'aws-sdk'
 gem 'airbrake'
 
 gem 'spree', :git => 'git://github.com/spree/spree.git', :branch => '1-1-stable'
@@ -50,4 +50,6 @@ group :production do
 end
 
 gem 'deface', :git => 'git://github.com/railsdog/deface.git'
-
+gem "highline"
+gem 'nested_set', '1.7.0'
+gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
